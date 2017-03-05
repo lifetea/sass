@@ -4,5 +4,6 @@
 .idea/modules.xml
 .idea/sass-daily.iml
 .idea/workspace.xml
+.idea/
 css/
 node_modules/
