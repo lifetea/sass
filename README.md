@@ -12,8 +12,8 @@ sass练习
 ##目录
 * 1.[第一步搭建环境](#Install)
     * [安装gulp](./doc/1/gulp.md)
-* 2.[第二步配置环境](#Config)
-    * [配置webpack](./doc/2/webpack.md)
+* 2.[CSS扩展](#Config)
+    * [嵌套](./doc/1/reference.md)
     * [配置gulp](./doc/2/gulp.md)
 * 3.[第三步构建入口](#App)
     * [webpack入口和输出](./doc/3/main.md)
