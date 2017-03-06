@@ -1,9 +1,9 @@
 
-###安装 gulp
+#####安装 gulp
     npm install --save-dev gulp
-###安装 gulp-sass
+#####安装 gulp-sass
     npm install --save-dev gulp-sass
-###创建gulpfile.js
+#####创建gulpfile.js
     var gulp = require('gulp');
     var sass = require('gulp-sass');
     
